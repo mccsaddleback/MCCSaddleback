@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MCC Cultural Cookbook</title>
-    <link href="https://mccsaddleback.github.com/MCCSaddleback/feed.xml" rel="self" />
-    <link href="https://mccsaddleback.github.com/MCCSaddleback" />
+    <link href="https://mccsaddleback.github.io/MCCSaddleback/feed.xml" rel="self" />
+    <link href="https://mccsaddleback.github.io/MCCSaddleback" />
     <updated>2026-10-22T14:48:57-07:00</updated>
     <author>
         <name>MCCSaddleback</name>
     </author>
-    <id>https://mccsaddleback.github.com/MCCSaddleback</id>
+    <id>https://mccsaddleback.github.io/MCCSaddleback</id>
 
     <entry>
         <title>Coconut Tofu Noodle Soup</title>
         <author>
             <name>MCCSaddleback</name>
         </author>
-        <link href="https://mccsaddleback.github.com/MCCSaddleback/coconut-tofu-noodle-soup/"/>
-        <id>https://mccsaddleback.github.com/MCCSaddleback/coconut-tofu-noodle-soup/</id>
+        <link href="https://mccsaddleback.github.io/MCCSaddleback/coconut-tofu-noodle-soup/"/>
+        <id>https://mccsaddleback.github.io/MCCSaddleback/coconut-tofu-noodle-soup/</id>
             <category term="Tofu"/>
             <category term="Noodles"/>
 
@@ -56,8 +56,8 @@
         <author>
             <name>MCCSaddleback</name>
         </author>
-        <link href="https://mccsaddleback.github.com/MCCSaddleback/ergerger/"/>
-        <id>https://mccsaddleback.github.com/MCCSaddleback/ergerger/</id>
+        <link href="https://mccsaddleback.github.io/MCCSaddleback/ergerger/"/>
+        <id>https://mccsaddleback.github.io/MCCSaddleback/ergerger/</id>
             <category term="White Bean"/>
             <category term="Pasta"/>
 
