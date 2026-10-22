@@ -1,0 +1,99 @@
+<!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>All tags - MCC Cultural Cookbook</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://mccsaddleback.github.com/MCCSaddleback/feed.xml" title="MCC Cultural Cookbook - RSS"><link rel="alternate" type="application/json" href="https://mccsaddleback.github.com/MCCSaddleback/feed.json" title="MCC Cultural Cookbook - JSON"><meta property="og:title" content="MCC Cultural Cookbook"><meta property="og:site_name" content="MCC Cultural Cookbook"><meta property="og:description" content=""><meta property="og:url" content="https://mccsaddleback.github.com/MCCSaddleback/tags/"><meta property="og:type" content="website"><link rel="stylesheet" href="https://mccsaddleback.github.com/MCCSaddleback/assets/css/style.css?v&#x3D;8e605756317a090731035e2dbf41f2b0"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"MCC Cultural Cookbook","url":"https://mccsaddleback.github.com/MCCSaddleback/"}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript><style>#site-language {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+
+    font: inherit;
+    font-size: 14px;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 0;
+    cursor: pointer;
+  }
+
+  @media (max-width: 600px) {
+    #site-language {
+      right: 10px;
+      font-size: 12px;
+      padding: 6px;
+      max-width: 110px;
+    }
+  }</style><script>document.addEventListener('DOMContentLoaded', function () {
+
+  // Find the header
+  const header = document.querySelector('header');
+
+  if (!header) {
+    console.warn('Language selector: header not found');
+    return;
+  }
+
+  // Position dropdown relative to header
+  header.style.position = 'relative';
+
+  // Create language selector
+  const select = document.createElement('select');
+  select.id = 'site-language';
+  select.setAttribute('aria-label', 'Select language');
+
+  const languages = {
+    en: 'English',
+    es: 'Español',
+    'zh-CN': '简体中文',
+    'zh-TW': '繁體中文',
+    ja: '日本語',
+    ko: '한국어',
+    vi: 'Tiếng Việt',
+    tl: 'Filipino',
+    ar: 'العربية',
+    fr: 'Français',
+    hi: 'हिन्दी'
+  };
+
+  for (const [code, name] of Object.entries(languages)) {
+    select.add(new Option(name, code));
+  }
+
+  // Translate selected language
+  select.addEventListener('change', function () {
+    const language = this.value;
+
+    if (language === 'en') return;
+
+    const url =
+      'https://translate.google.com/translate' +
+      '?sl=en' +
+      '&tl=' + encodeURIComponent(language) +
+      '&u=' + encodeURIComponent(window.location.href);
+
+    window.location.href = url;
+  });
+
+  // Add dropdown to right side of header
+  header.appendChild(select);
+
+});</script></head><body class="tags-template"><header class="header" id="js-header"><a href="https://mccsaddleback.github.com/MCCSaddleback/" class="logo">MCC Cultural Cookbook</a></header><main class="page page--tags"><div class="wrapper"><div class="hero"><h1>Collection of all tags <sup>(4)</sup></h1></div><ul class="l-grid l-grid--3"><li class="c-card"><div class="c-card__wrapper"><div class="c-card__header"><h2 class="c-card__title"><a href="https://mccsaddleback.github.com/MCCSaddleback/tags/noodles/" class="invert">Noodles </a><sup>(1)</sup></h2></div></div></li><li class="c-card"><div class="c-card__wrapper"><div class="c-card__header"><h2 class="c-card__title"><a href="https://mccsaddleback.github.com/MCCSaddleback/tags/pastaa/" class="invert">Pasta </a><sup>(1)</sup></h2></div></div></li><li class="c-card"><div class="c-card__wrapper"><div class="c-card__header"><h2 class="c-card__title"><a href="https://mccsaddleback.github.com/MCCSaddleback/tags/tofu/" class="invert">Tofu </a><sup>(1)</sup></h2></div></div></li><li class="c-card"><div class="c-card__wrapper"><div class="c-card__header"><h2 class="c-card__title"><a href="https://mccsaddleback.github.com/MCCSaddleback/tags/pasta/" class="invert">White Bean </a><sup>(1)</sup></h2></div></div></li></ul></div></main><footer class="footer"><div class="footer__copyright">Saddleback College</div></footer><script>window.publiiThemeMenuConfig = {    
+      mobileMenuMode: 'sidebar',
+      animationSpeed: 300,
+      submenuWidth: 'auto',
+      doubleClickTime: 500,
+      mobileMenuExpandableSubmenus: true, 
+      relatedContainerForOverlayMenuSelector: '.navbar',
+   };</script><script defer="defer" src="https://mccsaddleback.github.com/MCCSaddleback/assets/js/scripts.min.js?v&#x3D;1b09dc64eb6086ddc9720890661ff038"></script><script>var images = document.querySelectorAll('img[loading]');
+
+      for (var i = 0; i < images.length; i++) {
+         if (images[i].complete) {
+               images[i].classList.add('is-loaded');
+         } else {
+               images[i].addEventListener('load', function () {
+                  this.classList.add('is-loaded');
+               }, false);
+         }
+      }</script></body></html>

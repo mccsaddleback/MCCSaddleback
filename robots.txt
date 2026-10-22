@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mccsaddleback.github.com/MCCSaddleback/sitemap.xml
