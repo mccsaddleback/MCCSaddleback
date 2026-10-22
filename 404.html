@@ -4,6 +4,8 @@
 #site-language { grid-area: language; width: auto; max-width: 140px; margin: 0; padding: 7px 10px; font: inherit; font-size: 14px; color: #222; background: #fff; border: 1px solid #bbb; border-radius: 5px; cursor: pointer; }
 @media(min-width:900px) { #js-header { grid-template-areas: ". logo nav search language ."; } }
 @media(max-width:600px) { #js-header { column-gap: 6px; } #js-header .logo { white-space: normal; text-align: left; font-size: 16px; line-height: 1.2; } #site-language { max-width: 108px; font-size: 12px; padding: 6px; } }</style><script>document.addEventListener('DOMContentLoaded', function () {
+  // Google provides its own language toolbar on translated pages.
+  if (window.location.hostname.endsWith('.translate.goog')) return;
   const header = document.getElementById('js-header');
   if (!header || document.getElementById('site-language')) return;
   const select = document.createElement('select');
