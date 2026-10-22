@@ -10,6 +10,53 @@
     },
     "items": [
         {
+            "id": "https://mccsaddleback.github.io/MCCSaddleback/filipino-inspired-spam-silog/",
+            "url": "https://mccsaddleback.github.io/MCCSaddleback/filipino-inspired-spam-silog/",
+            "title": "Filipino-Inspired SPAM Silog",
+            "summary": "Cuisine: Filipino-Inspired Prep Time: 5 minutes Cook Time: 15 minutes Servings: 2 Difficulty: Easy Silog is a popular Filipino breakfast&hellip;",
+            "content_html": "<p><strong>Cuisine:</strong> Filipino-Inspired<br><strong>Prep Time:</strong> 5 minutes<br><strong>Cook Time:</strong> 15 minutes<br><strong>Servings:</strong> 2<br><strong>Difficulty:</strong> Easy</p>\n<h3>Description</h3>\n<p>Silog is a popular Filipino breakfast featuring rice, a fried egg, and a savory main ingredient. This version uses crispy SPAM for a simple, satisfying meal that works any time of day!</p>\n<h3>Ingredients</h3>\n<ul data-spread=\"false\">\n<li>\n<p>½ can SPAM, sliced</p>\n</li>\n<li>\n<p>2 eggs</p>\n</li>\n<li>\n<p>2 cups cooked white rice (or cooked lentil-and-rice mixture)</p>\n</li>\n<li>\n<p>2 cloves garlic, minced (optional)</p>\n</li>\n<li>\n<p>1 tablespoon cooking oil</p>\n</li>\n<li>\n<p>Vinegar or hot sauce, for serving (optional)</p>\n</li>\n</ul>\n<h3>Instructions</h3>\n<ol start=\"1\" data-spread=\"false\">\n<li>\n<p><strong>Prepare the rice.</strong> Cook rice according to the package instructions.</p>\n</li>\n<li>\n<p><strong>Make garlic rice.</strong> If garlic is available, heat a little oil in a skillet and sauté the minced garlic until fragrant. Add the cooked rice and stir-fry for 2–3 minutes.</p>\n</li>\n<li>\n<p><strong>Fry the SPAM.</strong> Cut SPAM into slices and cook in a skillet over medium heat until browned on both sides.</p>\n</li>\n<li>\n<p><strong>Cook the eggs.</strong> Fry the eggs to your preferred doneness, making sure they are cooked thoroughly.</p>\n</li>\n<li>\n<p><strong>Assemble the plate.</strong> Serve the rice alongside the SPAM and fried eggs.</p>\n</li>\n<li>\n<p><strong>Enjoy!</strong> Add vinegar or hot sauce for extra flavor if desired.</p>\n</li>\n</ol>\n<h3>Cultural Note</h3>\n<p>The word <em>silog</em> comes from <em>sinangag</em> (garlic fried rice) and <em>itlog</em> (egg). Filipino silog breakfasts have many variations using different meats and proteins. This recipe is a pantry-friendly adaptation!</p>",
+            "author": {
+                "name": "MCCSaddleback"
+            },
+            "tags": [
+                   "Spam"
+            ],
+            "date_published": "2026-10-22T16:01:16-07:00",
+            "date_modified": "2026-10-22T16:01:24-07:00"
+        },
+        {
+            "id": "https://mccsaddleback.github.io/MCCSaddleback/hawaiian-inspired-spam-fried-rice/",
+            "url": "https://mccsaddleback.github.io/MCCSaddleback/hawaiian-inspired-spam-fried-rice/",
+            "title": "Hawaiian-Inspired SPAM Fried Rice",
+            "summary": "Cuisine: Hawaiian-Inspired Prep Time: 10 minutes Cook Time: 15 minutes Servings: 3–4 Difficulty: Easy SPAM is a popular ingredient in&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\"><strong>Cuisine:</strong> Hawaiian-Inspired<br><strong>Prep Time:</strong> 10 minutes<br><strong>Cook Time:</strong> 15 minutes<br><strong>Servings:</strong> 3–4<br><strong>Difficulty:</strong> Easy</p>\n<h3>Description</h3>\n<p>SPAM is a popular ingredient in Hawaiian home cooking, and fried rice is one of the many ways to enjoy it! This pantry-friendly version combines crispy SPAM, vegetables, eggs, and rice for a comforting one-pan meal.</p>\n<h3>Ingredients</h3>\n<ul data-spread=\"false\">\n<li>\n<p>½ can SPAM, diced</p>\n</li>\n<li>\n<p>2 cups cooked rice (or cooked lentil-and-rice mixture)</p>\n</li>\n<li>\n<p>2 eggs</p>\n</li>\n<li>\n<p>1 carrot, finely chopped</p>\n</li>\n<li>\n<p>½ onion, diced</p>\n</li>\n<li>\n<p>1 tablespoon cooking oil</p>\n</li>\n<li>\n<p>1–2 tablespoons soy sauce (optional)</p>\n</li>\n<li>\n<p>Black pepper, to taste</p>\n</li>\n</ul>\n<h3>Instructions</h3>\n<ol start=\"1\" data-spread=\"false\">\n<li>\n<p><strong>Prepare the rice.</strong> Cook rice according to the package instructions. If possible, allow it to cool before frying.</p>\n</li>\n<li>\n<p><strong>Cook the SPAM.</strong> Heat oil in a large skillet over medium-high heat. Add diced SPAM and fry for 4–5 minutes until crispy.</p>\n</li>\n<li>\n<p><strong>Add the vegetables.</strong> Stir in the onion and carrot. Cook until softened, approximately 4 minutes.</p>\n</li>\n<li>\n<p><strong>Scramble the eggs.</strong> Move the SPAM and vegetables to one side of the skillet. Crack in the eggs and scramble until cooked.</p>\n</li>\n<li>\n<p><strong>Add the rice.</strong> Stir in the cooked rice and mix everything together.</p>\n</li>\n<li>\n<p><strong>Season and serve.</strong> Add soy sauce and black pepper, if available. Stir-fry for another 2–3 minutes until everything is heated through.</p>\n</li>\n</ol>\n<h3>Pantry Tip</h3>\n<p>The pantry's lentil-and-rice packets can replace plain rice for extra protein and fiber. The flavor and texture will be a little different, but it's still delicious!</p>",
+            "author": {
+                "name": "MCCSaddleback"
+            },
+            "tags": [
+                   "Spam",
+                   "Egg"
+            ],
+            "date_published": "2026-10-22T16:00:02-07:00",
+            "date_modified": "2026-10-22T16:00:39-07:00"
+        },
+        {
+            "id": "https://mccsaddleback.github.io/MCCSaddleback/spam-breakfast-burrito/",
+            "url": "https://mccsaddleback.github.io/MCCSaddleback/spam-breakfast-burrito/",
+            "title": "SPAM Breakfast Burrito",
+            "summary": "Cuisine: Mexican-American / Hawaiian-Inspired Prep Time: 10 minutes Cook Time: 15 minutes Servings: 2 Difficulty: Easy Looking for a quick&hellip;",
+            "content_html": "<h1 data-pm-slice=\"1 1 []\"> </h1>\n<p><strong>Cuisine:</strong> Mexican-American / Hawaiian-Inspired<br><strong>Prep Time:</strong> 10 minutes<br><strong>Cook Time:</strong> 15 minutes<br><strong>Servings:</strong> 2<br><strong>Difficulty:</strong> Easy</p>\n<h3>Description</h3>\n<p>Looking for a quick and filling breakfast? This SPAM Breakfast Burrito combines crispy SPAM, fluffy scrambled eggs, golden potatoes, and sautéed vegetables, all wrapped in a warm tortilla. It's an easy way to turn everyday pantry ingredients into a delicious meal!</p>\n<h3>Ingredients</h3>\n<ul data-spread=\"false\">\n<li>\n<p>½ can SPAM, diced</p>\n</li>\n<li>\n<p>2 large flour tortillas</p>\n</li>\n<li>\n<p>2 eggs</p>\n</li>\n<li>\n<p>1 medium potato, diced</p>\n</li>\n<li>\n<p>½ onion, chopped</p>\n</li>\n<li>\n<p>1 jalapeño, chopped (optional)</p>\n</li>\n<li>\n<p>1 tablespoon cooking oil</p>\n</li>\n<li>\n<p>Black pepper, to taste</p>\n</li>\n<li>\n<p>Hot sauce (optional)</p>\n</li>\n</ul>\n<h3>Instructions</h3>\n<ol start=\"1\" data-spread=\"false\">\n<li>\n<p><strong>Cook the potatoes.</strong> Heat oil in a skillet over medium heat. Add diced potatoes and cook for 10–12 minutes, stirring occasionally, until tender and golden.</p>\n</li>\n<li>\n<p><strong>Add the vegetables.</strong> Stir in chopped onion and jalapeño. Cook for 3–4 minutes until softened.</p>\n</li>\n<li>\n<p><strong>Crisp the SPAM.</strong> Add diced SPAM and cook until lightly browned, about 4–5 minutes.</p>\n</li>\n<li>\n<p><strong>Scramble the eggs.</strong> Push the other ingredients to one side of the pan. Add the beaten eggs and gently scramble until fully cooked.</p>\n</li>\n<li>\n<p><strong>Assemble the burritos.</strong> Warm the tortillas, divide the filling evenly between them, and wrap tightly.</p>\n</li>\n<li>\n<p><strong>Serve and enjoy!</strong> Add hot sauce or your favorite toppings if available.</p>\n</li>\n</ol>\n<h3>Pantry Tip</h3>\n<p>SPAM is already salty, so you probably won't need extra salt. For an even more filling burrito, add canned chickpeas or lentils.</p>",
+            "author": {
+                "name": "MCCSaddleback"
+            },
+            "tags": [
+                   "Spam",
+                   "Egg"
+            ],
+            "date_published": "2026-10-22T15:59:40-07:00",
+            "date_modified": "2026-10-22T16:00:44-07:00"
+        },
+        {
             "id": "https://mccsaddleback.github.io/MCCSaddleback/coconut-tofu-noodle-soup/",
             "url": "https://mccsaddleback.github.io/MCCSaddleback/coconut-tofu-noodle-soup/",
             "title": "Coconut Tofu Noodle Soup",
@@ -20,10 +67,11 @@
             },
             "tags": [
                    "Tofu",
-                   "Noodles"
+                   "Noodles",
+                   "Coconut"
             ],
             "date_published": "2026-10-22T14:48:19-07:00",
-            "date_modified": "2026-10-22T14:48:57-07:00"
+            "date_modified": "2026-10-22T15:58:36-07:00"
         },
         {
             "id": "https://mccsaddleback.github.io/MCCSaddleback/ergerger/",

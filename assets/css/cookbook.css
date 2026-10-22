@@ -48,3 +48,4 @@ button,.btn,input,select,textarea{font-size:1rem;min-height:44px}
 @media(max-width:600px){#js-header,#js-header.is-visible,#js-header.is-hidden{min-height:200px;padding:5rem 1.25rem 2.5rem}#js-header .logo{font-size:2rem;text-align:center}#site-language{max-width:150px}.category-nav{padding:.75rem 1rem}.category-tabs{justify-content:flex-start}.category-tabs a{padding:.5rem .85rem}.hero p{font-size:1.125rem}.l-grid{grid-template-columns:minmax(0,1fr)!important}.hero{padding-top:2rem}.wrapper{width:100%}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 @media(forced-colors:active){.category-tabs a[aria-current="page"]{border:4px solid Highlight}.skip-link:focus{outline:3px solid Highlight}}
+
